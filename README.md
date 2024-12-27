@@ -30,7 +30,7 @@
     <p>GitHub: <a href="https://github.com/defaeca" target="_blank">@defaeca</a></p>
   </section>
   <footer>
-    <p><small>&copy; 2024 Universidade UNES. Todos os direitos reservados.</small></p>
+    <p><small>&copy; 2024 Anna Bella. Todos os direitos reservados.</small></p>
   </footer>
 </body>
 
