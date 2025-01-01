@@ -11,6 +11,7 @@
   <header>
     <h1>Anna Bella</h1>
     <p><em>Artista e ativista ambiental - Transformando o mundo pela arte</em></p>
+    <p><em>Link: </em>https://defaeca.github.io/ANNA_BELLA_SITE_CSS/</p>
   </header>
     
   <section>
@@ -35,3 +36,5 @@
 </body>
 
 </html>
+
+![annabellagif](https://github.com/user-attachments/assets/03c558c5-a458-475f-9c76-90cacfb014d1)
